@@ -28,7 +28,7 @@
 
 
 # This is the main script to generate the Augmented Emission Maps (AEM) from the project uCARe.
-# Please ensure that the necessary packages includded in the requirements.txt are installed correctly
+# Please ensure that the necessary packages included in the requirements.txt are installed correctly
 
 from scripts import func_process
 
