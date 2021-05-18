@@ -28,7 +28,7 @@
 #===============================================================================
 
 # Module graph_output.py
-# Module to generate the figures for visual representation of the Augemented Emission Map (AEM)
+# Module to generate the figures for visual representation of the Augmented Emission Map (AEM)
 
 
 from scripts import xymatrix
