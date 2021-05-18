@@ -1,0 +1,10 @@
+cycler
+kiwisolver
+matplotlib
+numpy
+pandas
+pyparsing
+python-dateutil
+pytz
+pathlib
+six
