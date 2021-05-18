@@ -27,7 +27,7 @@
 # OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
-# This is the main script to generate the Augemented Emission Maps (AEM) from the project uCARe.
+# This is the main script to generate the Augmented Emission Maps (AEM) from the project uCARe.
 # Please ensure that the necessary packages includded in the requirements.txt are installed correctly
 
 from scripts import func_process
