@@ -1,7 +1,3 @@
-NOTE: This code can only process emission basemaps which are generated with the main_UCARE.py code of 03-02-2021. You can find the link to this script below:
-https://365tno.sharepoint.com/:f:/r/teams/P060.30988/TeamDocuments/Team/3 Working documents/WP1 - Assessment user impact/Task 1.2 - Standardized data/Work in progress/3. Script for emission maps?csf=1&web=1
-
-
 Steps to follow for combining two emission maps of different sources with identical taxonomy codes:
 
 1.Make sure you have installed Python3 including packages (see requirements)
