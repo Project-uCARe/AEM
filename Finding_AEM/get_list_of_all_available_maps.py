@@ -42,7 +42,7 @@ import requests
 from path import Path
 
 
-def get_list_of_all_available_maps(ACCESS_TOKEN, search_query):
+def get_list_of_all_available_maps(ACCESS_TOKEN, search_query='Augmented emission maps '):
     # --- search Zenodo for search query ---------------------------------------
     response = requests.get('https://zenodo.org/api/records',
                             params={'q': search_query, 'communities': 'ucare', 'size': 500,
